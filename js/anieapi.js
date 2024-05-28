@@ -25,4 +25,3 @@ getQuote();
 function newQuote() {
     location.reload();
 }
-
